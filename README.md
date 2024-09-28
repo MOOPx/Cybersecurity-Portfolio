@@ -1,6 +1,6 @@
 # Cybersecurity-Journey
 <h1 align="center">Hi 👋, I'm Dustin</h1>
-<h3 align="center">As a dedicated cybersecurity student, I am passionate about learning cutting-edge technologies and applying them to protect individuals and organizations from online threats. I am eager to develop my skills and knowledge in the ever-evolving field of cybersecurity. I am particularly excited about pursuing a career as a penetration tester, where I can continually learn and apply the latest techniques to identify vulnerabilities and enhance security. My goal is to contribute to safeguarding systems while staying ahead of emerging cyber threats.</h3>
+<h3 align="center">As a dedicated cybersecurity student, I am passionate about learning cutting-edge technologies and applying them to protect individuals and organizations from online threats. I work well under pressure and enjoy troubleshooting complex problems. I am particularly excited about pursuing a career as a penetration tester, where I can continually learn and apply the latest techniques to identify vulnerabilities and enhance security. My goal is to contribute to safeguarding systems while staying ahead of emerging cyber threats.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moopx&label=Profile%20views&color=0e75b6&style=flat" alt="moopx" /> </p>
 
