@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on obtaining [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
 
-- 🌱 I’m currently learning **Asset Threats and Vulnerabilities**
+- 🌱 I’m currently learning **Dection and Reponse**
 
 - 🤝 I’m looking for help with **Finding a job in Cybersecurity**
 
