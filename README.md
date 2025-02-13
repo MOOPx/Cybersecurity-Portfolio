@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on obtaining [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
 
-- 🌱 I’m currently learning **Detection and Response**
+- 🌱 I’m currently learning **Automating With Python**
 
 - 🤝 I’m looking for help with **Finding a job in Cybersecurity**
 
